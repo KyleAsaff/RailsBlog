@@ -1,5 +1,4 @@
 RailsBlog
 
 DESCRIPTION
-
 A Skeleton for a simple Ruby on Rails blog with basic blog functions (Create, Read Update, Destroy).
